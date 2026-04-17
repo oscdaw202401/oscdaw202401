@@ -54,7 +54,7 @@ Soy un desarrollador de aplicaciones web y multiplataforma con formación técni
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oscdaw202401&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Oscar" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscdaw202401&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscdaw202401&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Lenguajes más usados" height="150" />
 </div>
 
 ---
