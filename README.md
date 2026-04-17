@@ -44,9 +44,8 @@ Soy un desarrollador de aplicaciones web y multiplataforma con formación técni
 
 ## 🚀 Proyectos Destacados
 
-### [ 🛒 Atenea-models ]
-**Descripción:** Aplicación Web enfocada en una tienda online funcional.  
-*(Puedes encontrar más información y detalles sobre la arquitectura de este proyecto en mi perfil de LinkedIn).*
+### [ ♻️ Atenea-models ](https://atenea-models.vercel.app/)
+**Descripción:** Plataforma web enfocada en la moda sostenible y la economía circular. El proyecto promueve el reciclaje textil transformando prendas de segunda mano en piezas únicas para minimizar el impacto ambiental. Además, fomenta la comunidad y la solidaridad facilitando la donación de ropa y la colaboración directa con ONGs.
 
 ---
 
