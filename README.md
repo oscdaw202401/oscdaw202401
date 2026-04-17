@@ -10,7 +10,7 @@ Soy un desarrollador de aplicaciones web y multiplataforma con formación técni
 - 📍 **Ubicación:** Madrid, España
 - 🎓 **Educación:** Técnico Superior DAM (2025-Actualidad) | Técnico Superior DAW (2022-2024)
 - 💼 **Experiencia:** Desarrollo Full Stack (Angular & Spring Boot) en Metrica Consulting.
-- 🌱 **Actualmente aprendiendo:** Explorando y formándome en **Next.js** para el frontend y **NestJS** para el backend.
+- 🌱 **Actualmente aprendiendo:** Explorando y formándome en **Next.js** para el frontend y **NestJS** para el backend en Correcta Digital S.L. .
 - 🎯 **Objetivo profesional:** Integrarme en un equipo de trabajo donde pueda aportar mis conocimientos, seguir creciendo como desarrollador y crear soluciones escalables.
 
 ---
@@ -54,7 +54,9 @@ Soy un desarrollador de aplicaciones web y multiplataforma con formación técni
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oscdaw202401&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Oscar" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscdaw202401&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Lenguajes más usados" height="150" />
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=c3fdb623-52eb-444c-8f22-47894601ff78&layout=compact&theme=radical&hide_border=true" alt="Estadísticas de WakaTime" height="150" />
+</div>
 </div>
 
 ---
