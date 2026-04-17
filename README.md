@@ -31,11 +31,14 @@ Soy un desarrollador de aplicaciones web y multiplataforma con formación técni
 
 ---
 
-## 🏆 Certificaciones y Méritos
+## 🏆 Certificaciones
 
-- 🎓 **Spring Boot** - Udemy
-- 🐍 **Python (PCEP, PCAP)** - Udemy
-- 📄 **Carta de Recomendación** - Confianza23
+| Certificación | Plataforma | Enlace |
+| :--- | :---: | :---: |
+| **Spring Boot** | <img src="https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=udemy&logoColor=white" /> | [Ver Diploma](https://drive.google.com/file/d/1-pbISBuNk4utNkI8pUuH0xxrbt4b52nx/view?usp=drive_link) |
+| **Python PCEP** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> | [Ver Diploma](https://drive.google.com/file/d/1lIPaJzK1nZWOcBYwyT34KrtjJS8Eqsuf/view?usp=drive_link) |
+| **Python PCAP** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> | [Ver Diploma](https://drive.google.com/file/d/1J-TQS9gPsZmFXqSO-Kn-ZXzEIZyGSUyS/view?usp=drive_link) |
+| **Carta de Recomendación** | <img src="https://img.shields.io/badge/Recomendación-0077B5?style=flat&logo=linkedin&logoColor=white" /> | [Ver PDF](https://drive.google.com/file/d/1O4hyy_NiND_adXfF2ruMCMPhEki_I-M0/view?usp=drive_link) |
 
 ---
 
@@ -48,8 +51,6 @@ Soy un desarrollador de aplicaciones web y multiplataforma con formación técni
 ---
 
 ## 📊 Estadísticas de GitHub
-
-*(Nota: Recuerda cambiar la palabra `TU_USUARIO` en los enlaces de abajo por tu nombre de usuario real de GitHub para que carguen tus estadísticas)*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oscdaw202401&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Oscar" height="150" />
