@@ -55,9 +55,7 @@ Soy un desarrollador de aplicaciones web y multiplataforma con formación técni
   <img src="https://github-readme-stats.vercel.app/api?username=oscdaw202401&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Oscar" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscdaw202401&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Lenguajes más usados" height="150" />
   <div align="center">
-  <a href="https://wakatime.com/@c3fdb623-52eb-444c-8f22-47894601ff78">
-    <img src="https://wakatime.com/badge/user/c3fdb623-52eb-444c-8f22-47894601ff78.svg" alt="Tiempo total programando" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=oscdaw202401&layout=compact&theme=radical&hide_border=true" alt="Estadísticas de WakaTime" height="150" />
 </div>
 </div>
 
