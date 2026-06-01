@@ -47,19 +47,10 @@ Soy un desarrollador de aplicaciones web y multiplataforma con formación técni
 ### [ ♻️ Atenea-models ](https://atenea-models.vercel.app/)
 **Descripción:** Plataforma web enfocada en la moda sostenible y la economía circular. El proyecto promueve el reciclaje textil transformando prendas de segunda mano en piezas únicas para minimizar el impacto ambiental. Además, fomenta la comunidad y la solidaridad facilitando la donación de ropa y la colaboración directa con ONGs.
 
+### [ 🏎️ marMotor ](https://marmotor.vercel.app/)
+**Descripción:** Plataforma web enfocada en la compraventa de vehículos mediante un modelo de negocio 100% digital. El proyecto moderniza el sector eliminando la necesidad de exposición física y ofreciendo una experiencia de usuario inmersiva con catálogos dinámicos e historiales visuales interactivos. Además, optimiza la gestión operativa del concesionario a través de un panel de administración seguro para el control integral del inventario y las ventas.
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscdaw202401&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Oscar" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscdaw202401&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Lenguajes más usados" height="150" />
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ossccarr&layout=compact&theme=radical&hide_border=true&nocache=3" alt="Estadísticas de WakaTime" height="150" />
-</div>
-</div>
-
----
 
 ## 📫 Conectemos
 
