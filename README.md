@@ -49,6 +49,7 @@ Soy un desarrollador de aplicaciones web y multiplataforma con formación técni
 
 ### [ 🏎️ marMotor ](https://marmotor.vercel.app/)
 **Descripción:** Plataforma web enfocada en la compraventa de vehículos mediante un modelo de negocio 100% digital. El proyecto moderniza el sector eliminando la necesidad de exposición física y ofreciendo una experiencia de usuario inmersiva con catálogos dinámicos e historiales visuales interactivos. Además, optimiza la gestión operativa del concesionario a través de un panel de administración seguro para el control integral del inventario y las ventas.
+
 ---
 
 
