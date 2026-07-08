@@ -8,9 +8,10 @@
 Soy un desarrollador de aplicaciones web y multiplataforma con formación técnica sólida y experiencia en proyectos full-stack. Me apasiona la programación, el diseño de APIs y el desarrollo de interfaces eficientes. Me considero una persona comprometida, organizada y motivada, siempre en constante aprendizaje de nuevas tecnologías.
 
 - 📍 **Ubicación:** Madrid, España
+- 🌐 **Portfolio:** [oscaracedo.vercel.app](https://oscaracedo.vercel.app/)
 - 🎓 **Educación:** Técnico Superior DAM (2025-Actualidad) | Técnico Superior DAW (2022-2024)
 - 💼 **Experiencia:** Desarrollo Full Stack (Angular & Spring Boot) en Metrica Consulting.
-- 🌱 **Actualmente aprendiendo:** Explorando y formándome en **Next.js** para el frontend y **NestJS** para el backend en Correcta Digital S.L. .
+- 🌱 **Actualmente aprendiendo:** Explorando y formándome en **Next.js** para el frontend y **NestJS** para el backend en Correcta Digital S.L.
 - 🎯 **Objetivo profesional:** Integrarme en un equipo de trabajo donde pueda aportar mis conocimientos, seguir creciendo como desarrollador y crear soluciones escalables.
 
 ---
@@ -44,14 +45,16 @@ Soy un desarrollador de aplicaciones web y multiplataforma con formación técni
 
 ## 🚀 Proyectos Destacados
 
+### [ 📁 Mi Portfolio Web ](https://oscaracedo.vercel.app/)
+**Descripción:** Espacio personal donde recopilo mi trayectoria profesional, mis habilidades técnicas y los proyectos en los que he trabajado. Diseñado para ofrecer una experiencia de usuario fluida y profesional.
+
 ### [ ♻️ Atenea-models ](https://atenea-models.vercel.app/)
 **Descripción:** Plataforma web enfocada en la moda sostenible y la economía circular. El proyecto promueve el reciclaje textil transformando prendas de segunda mano en piezas únicas para minimizar el impacto ambiental. Además, fomenta la comunidad y la solidaridad facilitando la donación de ropa y la colaboración directa con ONGs.
 
 ### [ 🏎️ marMotor ](https://marmotor.vercel.app/)
-**Descripción:** Plataforma web enfocada en la compraventa de vehículos mediante un modelo de negocio 100% digital. El proyecto moderniza el sector eliminando la necesidad de exposición física y ofreciendo una experiencia de usuario inmersiva con catálogos dinámicos e historiales visuales interactivos. Además, optimiza la gestión operativa del concesionario a través de un panel de administración seguro para el control integral del inventario y las ventas.
+**Descripción:** Plataforma web enfocada en la compraventa de vehículos mediante un modelo de negocio 100% digital. El proyecto moderniza el sector eliminando la necesidad de exposición física y ofreciendo una experiencia de usuario inmersiva con catálogos dinámicos e historiales visuales interactivos.
 
 ---
-
 
 ## 📫 Conectemos
 
@@ -63,5 +66,8 @@ Si tienes alguna propuesta interesante, quieres colaborar o simplemente charlar 
   </a>
   <a href="mailto:oscaracedoonis@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://oscaracedo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
